@@ -1,5 +1,11 @@
 ---
 TODO front matter
+This is inspired by devhints.io so I need and engine and layout features.
+References
+- https://devhints.io/cheatsheet-styles
+- https://github.com/devhints-io/devhints-engine
+- https://github.com/rstacruz/cheatsheets/blob/master/CONTRIBUTING.md
+- https://github.com/metalsmith/metalsmith
 ---
 
 Getting started
